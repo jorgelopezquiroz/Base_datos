@@ -276,7 +276,7 @@ Cuando haya compilado, verás los valores dentro del  en el  monitor serial y en
 **Node-red Dashboard**
 
 
-![](Https://github.com/jorgelopezquiroz/Base_datos/blob/main/Dashboard:1.jpeg?raw=true)
+![](https://github.com/jorgelopezquiroz/Base_datos/blob/main/Dashboard:1.jpeg?raw=true)
 
 
 **XAMPP**
